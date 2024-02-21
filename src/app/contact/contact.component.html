@@ -1,0 +1,65 @@
+<section class="contact"id="contact">>
+    <div class="titre_contact">Contact</div>
+    <div class="body_contact">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="icon_contact">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="num_tel">
+                                <i class="fas fa-phone"></i> <!-- Icône téléphone -->
+                                <h5 class="titre_tel">PHONE</h5>
+                                <p class="informations_personnelles"> +212 0636393087</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="email">
+                                <i class="far fa-envelope"></i> <!-- Icône enveloppe -->
+                                <h5 class="titre_tel">E-MAIL</h5>
+                                <p class="informations_personnelles">fatimaasebbane2002gmail.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="linkdin">
+                                <i class="fab fa-linkedin"></i> <!-- Icône LinkedIn -->
+                                <h5 class="titre_tel">LINKDIN</h5>
+                                <p class="informations_personnelles">fatima asebbane</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="github">
+                                <i class="fab fa-github"></i> <!-- Icône GitHub -->
+                                <h5 class="titre_tel">GITHUB</h5>
+                                <p class="informations_personnelles">fatimaasebbane</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="formulaire_contact">
+                    <div class="titre_formulaire">Nous contacter</div>
+                    <form (submit)="onSubmit()">
+                        <div>
+                            <input type="text" placeholder="Entrez votre nom" (ngModel)="name" name="name"/>
+                        </div>
+                        <div>
+                            <input type="email" placeholder="Entrez votre email" (ngModel)="email" name="email"/>
+                        </div>
+                        <div>
+                            <textarea placeholder="Entrez votre message" rows="3" (ngModel)="message" name="message"></textarea>
+                        </div>
+                        <div>
+                            <button type="submit" class="btnn" value="Nous faire parvenir">Nous faire parvenir</button>
+                        </div>
+                    </form>
+                    <img src="assets/images/fatima_signature.png" alt="fatima_signature" width="110px" height="40px" style="margin-left: 40%;"/>
+                </div>
+            </div>
+        </div>
+        <br/>
+        <br/>
+    </div>
+</section>

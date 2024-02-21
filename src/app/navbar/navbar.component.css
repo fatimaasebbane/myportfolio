@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #FFF3CF;
+    padding: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+.navbar-nav{
+    padding-left: 200px;
+}
+  .navbar-nav .nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
+
+  .navbar-nav .nav-link {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    padding-right: 10px;
+    color: black !important;
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: #E8C872 !important;;
+  }
+
+  .navbar-nav .nav-link.active {
+    color: #E8C872;
+  }
+

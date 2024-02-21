@@ -1,0 +1,43 @@
+.title_projects{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+    letter-spacing: 5px;
+    text-align: center !important;
+    margin-bottom: 30px;
+}
+.projets{
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+.butn{
+  color: black;
+  border: 2px solid #E8C872;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.butn:hover{
+  background-color: #E8C872;
+  border: 1px solid black;
+}
+.card-title{
+  font-size:20px ;
+  font-family: Montserrat;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+  text-shadow: 1px 1px #E8C872;
+}
+.description_projet{
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.card{
+  border: 3px 3px #E8C872;
+}

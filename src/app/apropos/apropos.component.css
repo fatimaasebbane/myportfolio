@@ -1,0 +1,65 @@
+.salut{
+    margin: 30px;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+}
+p{
+    text-align:left ;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-weight: 200;
+    font-size: 18px;
+    padding-right: 250px;
+    word-spacing: 9px;
+    padding-left: 50px;
+    text-transform: capitalize;
+
+}
+.about{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #fdf0cd;
+}
+.my_name{
+ text-align: center;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 20px;
+ letter-spacing: 3px;
+ font-weight: 700;
+ padding-top: 20px;
+}
+.metier{
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: #9b8548;
+}
+.services{
+    padding-top: 70px;
+    font-family: Montserrat !important;
+    font-weight: 200;
+    font-size: 18px;
+    word-spacing: 9px;
+    padding-left: 50px;
+    text-transform: capitalize;
+    background-color: #dfbf68;
+}
+.direction{
+font-family: montserrat !important;
+font-weight: 300 !important;
+color:#645838;
+text-shadow: 1px 1px black
+}
+.conseil{
+    font-family: montserrat !important;
+    font-weight: 300 !important;
+    color:#645838;
+    text-shadow: 1px 1px black
+}
+.titre_service{
+    margin-left: 200px !important;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 40px;
+    letter-spacing: 5px;
+}

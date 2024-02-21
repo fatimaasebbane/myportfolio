@@ -1,0 +1,85 @@
+/* .item-text .skill{
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 18px;
+letter-spacing: 2px;
+}
+.item-text .w-90{
+    margin-left: 70%;
+}
+.item-text .w-70{
+    margin-left: 70%;
+}
+.item-text .w-85{
+    margin-left: 50%;
+}
+.progress{
+    margin: 0.8rem 0;
+    width:360px; ;
+    height: 16px ;
+    border-radius: 10%;
+    background-color: var(--mero);
+    overflow: hidden;
+}
+.progress-bar.w-90 {
+    background-color: #E8C872;
+    height: 100%;
+    width: 90%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.progress-bar.w-70 {
+    background-color: #E8C872;
+    height: 100%;
+    width: 70%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.progress-bar.w-85 {
+    background-color: #E8C872;
+    height: 100%;
+    width: 85%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.competences{
+    padding: 50px;
+} */
+.skills{
+  justify-content: center;
+  margin-left: 90px;
+  margin-right: 90px;
+
+}
+.titre_competences{
+  text-align: center;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 40px;
+  letter-spacing: 5px;
+  margin-top: 50px
+}
+.card-title{
+  text-align: center;
+  font-size: 27px;
+  font-weight: 1000;
+  letter-spacing: 2px;
+  font-family: Montserrat;
+  color: #E8C872;
+  text-shadow: 1px 1px black;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.card{
+  padding: 30px;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  height:150px ;
+  font-weight: 600;
+  background-color:#ffeeb9;
+
+
+}

@@ -1,0 +1,52 @@
+.accueil{
+
+}
+
+.image{
+    border-radius: 50px !important;
+    text-align: right;
+    padding: 50px;
+}
+.partie1{
+background-color: #ffeeb9 !important;
+height: 85vh;
+}
+.partie2{
+background-color:#E8C872 !important;
+height: 85vh;
+
+}
+.card {
+    background: rgba(255, 255, 255, 0.5);
+    border: none;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    width: 490px;
+    height: auto;
+    margin-top: 110px;
+  }
+  .card-titre{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .signature{
+    text-align: center;
+  }
+  button{
+    background-color:#E8C872 ;
+    margin-top: 30px;
+    text-align: left;
+    color: black;
+    font-weight: 600;
+  }
+  button:hover{
+    background-color: #ffeeb9;
+  }
+  .card-body{
+    font-family: 'Courier New', Courier, monospace;
+
+  }

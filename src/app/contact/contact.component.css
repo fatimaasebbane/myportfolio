@@ -1,0 +1,104 @@
+.titre_contact{
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 50px;
+    letter-spacing: 5px;
+}
+.formulaire_contact{
+    background-color: #dfbf68;
+    width: 480px;
+    height: 490px;
+    text-align: center;
+
+}
+.icon_contact{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+   margin-left: 25%;
+   margin-top: 5%;
+
+}
+.num_tel  {
+    width: 230px;
+    height: 180px;
+    background-color:#fdf0cd ;
+    margin:10px;
+    padding-top: 15%;
+}
+.email{
+    width: 230px;
+    height: 180px;
+    background-color:#fdf0cd ;
+    margin:10px;
+    padding-top: 15%;
+
+}
+.linkdin{ width: 230px;
+    height: 180px;
+    background-color:#fdf0cd ;
+    margin:10px;
+    padding-top: 15%;}
+.github {
+    width: 230px;
+    height: 180px;
+    background-color:#fdf0cd ;
+    margin:10px;
+    padding-top: 15%;
+}
+.titre_formulaire{
+    padding: 30px !important;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+
+}
+.titre_tel{
+    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    letter-spacing: 2px;
+
+}
+.btnn{
+    background-color: white;
+    color: #dfbf68;
+    width: 200px;
+    height: 38px;
+    margin: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+    padding: auto;
+    border-radius: 5px;
+}
+input {
+    background-color: #fdf0cd;
+    text-align: left;
+    font-size:  18px;
+    width: 380px;
+    margin: 5px;
+    height: 45px;
+    border: 1px solid black;
+
+}
+textarea{
+    background-color: #fdf0cd;
+    text-align: left;
+    font-size:  18px;
+    width: 380px;
+    margin: 5px;
+    height: auto;
+    border: 1px solid black;
+}
+i{
+    font-size: 45px;
+    color: #dfbf68;
+    margin-bottom: 12px;
+}
+.informations_personnelles{
+    font-size: 14px;
+}
